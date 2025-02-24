@@ -6,6 +6,8 @@
 
 Tämä on perehdytysohje, joka sisältää tärkeimmät tiedot, jotta pääset vauhtiin!
 
+![Alephium](alephiumfi.png)
+
 ---
 
 ## Teknologiamme: Miksi Alephium

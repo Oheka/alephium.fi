@@ -11,7 +11,7 @@ Tämä on perehdytysohje, joka sisältää tärkeimmät tiedot, jotta pääset v
 
 ## Teknologiamme: Miksi Alephium?
 
-Alephium yhdistää ainutlaatuisella tavalla **shardingin ja Proof-of-Workin (PoW)**, tarjoten vertaansa vailla olevaa skaalautuvuutta samalla säilyttäen hajautetun rakenteen. Suunniteltu tukemaan korkean läpimenon hajautettuja sovelluksia, Alephium tuo innovaatioita useilta eri osa-alueilta:
+Alephium yhdistää ainutlaatuisella tavalla shardingin ja Proof-of-Workin (PoW), tarjoten vertaansa vailla olevaa skaalautuvuutta samalla säilyttäen hajautetun rakenteen. Suunniteltu tukemaan korkean läpimenon hajautettuja sovelluksia, Alephium tuo innovaatioita useilta eri osa-alueilta:
 
 - **Sharding Blockflowilla**: Alephiumin sharding-ratkaisu mahdollistaa tehokkaan tietojen hallinnan, mikä parantaa skaalautuvuutta vaarantamatta suorituskykyä.
 - **Proof of Less Work (PoLW)**: PoW:n paranneltu versio, joka vähentää energiankulutusta vaatimalla louhijoilta tokenien polttamista sen sijaan, että luotettaisiin pelkästään energiaintensiiviseen louhintaan.
@@ -23,7 +23,7 @@ Alephium yhdistää ainutlaatuisella tavalla **shardingin ja Proof-of-Workin (Po
 
 ## 🌱 Ekosysteemimme: Mahdollisuuksien maailma
 
-Alephium isännöi monipuolista ja dynaamista ekosysteemiä, joka kattaa useita sektoreita – hajautetusta rahoituksesta (**DeFi**) ja **NFT:istä** pelaamiseen sekä muuhun! Tässä on katsaus siihen, mitä sinua odottaa:
+Alephium isännöi monipuolista ja dynaamista ekosysteemiä, joka kattaa useita sektoreita – hajautetusta rahoituksesta (DeFi) ja NFT:istä pelaamiseen sekä muuhun! Tässä on katsaus siihen, mitä sinua odottaa:
 
 ### 🏦 DeFi
 
@@ -38,7 +38,7 @@ Alephium isännöi monipuolista ja dynaamista ekosysteemiä, joka kattaa useita 
 ### 🎮 Pelaaminen ja NFT:t
 
 - **[Alephium Battle](https://alephium-battle.vercel.app)**: NFT-pohjainen keräilykorttipeli, joka perustuu Alephium-lohkoketjuun.
-- **[Alphaga](https://alphaga.app)**: Alephiumin johtava NFT-kauppapaikka, joka tarjoaa kaupankäyntipalkkioita **$ALPHAGA-tokenin** kautta.
+- **[Alphaga](https://alphaga.app)**: Alephiumin johtava NFT-kauppapaikka, joka tarjoaa kaupankäyntipalkkioita ALPHAGA-tokenin kautta.
 - **[Deadrare](https://deadrare.io)**: Alusta NFT-kokoelmien minttaamiseen, kaupankäyntiin ja lanseeraamiseen.
 
 ---
@@ -57,7 +57,7 @@ Alephium isännöi monipuolista ja dynaamista ekosysteemiä, joka kattaa useita 
 
 ## 🌉 Silta
 
-Alephiumin **BSC- ja Ethereum-silta** tarjoaa saumattoman ketjujen välisen yhteyden, jonka avulla voit tutkia Alephium-ekosysteemiä nykyisten varojesi avulla.
+Alephiumin BSC- ja Ethereum-silta tarjoaa saumattoman ketjujen välisen yhteyden, jonka avulla voit tutkia Alephium-ekosysteemiä nykyisten varojesi avulla.
 
 ▶️ **[bridge.alephium.org](https://bridge.alephium.org/)**
 
@@ -65,9 +65,9 @@ Alephiumin **BSC- ja Ethereum-silta** tarjoaa saumattoman ketjujen välisen yhte
 
 ## 🪙 Listaukset ja tokenomiikka
 
-**$ALPH on Alephiumin natiivivaluutta.**
+$ALPH on Alephiumin natiivivaluutta.
 
-🔹 **Listaukset**: Tarkista, missä voit käydä kauppaa **$ALPH**:lla:  
+🔹 **Listaukset**: Tarkista, missä voit käydä kauppaa $ALPH:lla:  
 - [Coingecko](https://www.coingecko.com/en/coins/alephium)  
 - [CoinMarketCap](https://coinmarketcap.com/currencies/alephium/)
 
@@ -77,7 +77,7 @@ Alephiumin **BSC- ja Ethereum-silta** tarjoaa saumattoman ketjujen välisen yhte
 
 ## 👛 Lompakot
 
-Alephium tarjoaa **parhaat lompakot**, jotka takaavat vertaansa vailla olevan käyttökokemuksen:
+Alephium tarjoaa parhaat lompakot, jotka takaavat vertaansa vailla olevan käyttökokemuksen:
 
 💻 **Työpöytä-lompakko**  
 🌍 **Selainlaajennus**  
@@ -89,8 +89,8 @@ Alephium tarjoaa **parhaat lompakot**, jotka takaavat vertaansa vailla olevan k�
 
 ## 🚀 Aloita tänään!
 
-Alephium on enemmän kuin pelkkä lohkoketju — **se on kukoistava yhteisö ja innovaatioiden lähtölaukauspaikka**.  
-Olitpa sitten **DeFi-harrastaja, NFT-kokoelija tai kehittäjä**, löydät paikkasi ekosysteemistämme.
+Alephium on enemmän kuin pelkkä lohkoketju — se on kukoistava yhteisö ja innovaatioiden lähtölaukauspaikka.  
+Olitpa sitten DeFi-harrastaja, NFT-kokoelija tai kehittäjä, löydät paikkasi ekosysteemistämme.
 
 🔗 **Siltaa varoillesi:**  
 [https://bridge.alephium.org/#/transfer](https://bridge.alephium.org/#/transfer)
